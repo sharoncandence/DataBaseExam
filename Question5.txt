@@ -1,0 +1,9 @@
+WHERE, the clause is used to specify a statement where a given condition is true.
+
+GROUPBY, the groupby clause is used to relate statements and group them in the database.
+
+DISTINCT, the distinct clause is used to differenciate between statements in the query or the database.
+
+SELECT ,the select clause is used to display the query in the database.
+
+ORDERBY, the orderby clause is used to distinguish a query it can be by ascending,decending or by even the attributes of the database.

@@ -1,0 +1,55 @@
+-----question1i)
+A database refers to the collection of related data
+
+-----question1ii)
+A Database Management system refers to a software that is used to
+manage databases
+
+-----question1iii)
+SQL refers to a stuctured query language used to manipulate databases
+
+-----question1iv)
+A Foreign key refers to a primary key in another relation.
+
+-----question1v)
+ A Primary key refers to a key that uniquely identifies a given relation in a table.
+
+ ----question 2
+It helps minimise data redundacy, this is when data is duplicated in
+various files and folders
+It promotes security,a database helps to protect 
+ data mostly in the case of privacy
+A database helps in data recovery since its has options of backup
+ here you are rest assured that your data can be 
+ found incase the database Management system is crushed.
+A database enables easy manipulation of data forexample when one 
+ needs information about a particular person
+  its easy to query the information.
+its promotes effective data concurency.
+
+-----question 3
+Postgresql 
+It is used to develop databases forbig organisations like
+Airports since it has tight security features.
+sql sever 
+It is used in hospitals to store information abouth the hospital
+Mysql 
+It can also be used in both schools and hospitals since its a 
+database management system but it has 
+PhpmyAdmin 
+It is used in developing databases for schools or any organisation 
+since its good in performance
+MsAcess 
+It is used in schools mainly because it has no complexities
+
+
+
+----question4
+one to one Relationship, forexample A staff registers A client
+
+one to Many forexample A student can offer many course units.
+
+Many to Many forexample tutors can teach many students
+
+Many to one.Students study in a university or school.
+
